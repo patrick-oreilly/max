@@ -1,10 +1,7 @@
 # Max
 
-AI terminal teammate - Local, fast and private.
+Max is a friendly terminal assistant built with Google ADK.  - Local, fast and private.
 
-## What is Max?
-
-Max is a friendly terminal assistant built with Google ADK . 
 
 ## Architecture
 - Max (Orchestrator agent)
